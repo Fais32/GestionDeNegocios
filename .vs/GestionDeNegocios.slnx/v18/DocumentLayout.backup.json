@@ -1,0 +1,268 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fabio\\source\\repos\\GestionDeNegocios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F91DB21-0CB9-48D0-96C2-F77845632CFA}|ConsoleApp\\ConsoleApp.csproj|C:\\Users\\Fabio\\source\\repos\\GestionDeNegocios\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F91DB21-0CB9-48D0-96C2-F77845632CFA}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9BE417-F7DD-40AD-BCCF-478086EDA91D}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Fabio\\source\\repos\\GestionDeNegocios\\capadatos\\proyectorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF9BE417-F7DD-40AD-BCCF-478086EDA91D}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\proyectorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DB5749-215E-4795-B6F1-0C4CF8B63EFA}|CapaDominio\\CapaDominio.csproj|c:\\users\\fabio\\source\\repos\\gestiondenegocios\\capadominio\\enums\\tipoproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DB5749-215E-4795-B6F1-0C4CF8B63EFA}|CapaDominio\\CapaDominio.csproj|solutionrelative:capadominio\\enums\\tipoproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DB5749-215E-4795-B6F1-0C4CF8B63EFA}|CapaDominio\\CapaDominio.csproj|C:\\Users\\Fabio\\source\\repos\\GestionDeNegocios\\capadominio\\enums\\estadoproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DB5749-215E-4795-B6F1-0C4CF8B63EFA}|CapaDominio\\CapaDominio.csproj|solutionrelative:capadominio\\enums\\estadoproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A448BCC-09E1-40BD-903F-6CD79EC4DD32}|CapaLogica\\CapaLogica.csproj|C:\\Users\\Fabio\\source\\repos\\GestionDeNegocios\\capalogica\\validators\\facturavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A448BCC-09E1-40BD-903F-6CD79EC4DD32}|CapaLogica\\CapaLogica.csproj|solutionrelative:capalogica\\validators\\facturavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A448BCC-09E1-40BD-903F-6CD79EC4DD32}|CapaLogica\\CapaLogica.csproj|C:\\Users\\Fabio\\source\\repos\\GestionDeNegocios\\capalogica\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A448BCC-09E1-40BD-903F-6CD79EC4DD32}|CapaLogica\\CapaLogica.csproj|solutionrelative:capalogica\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A448BCC-09E1-40BD-903F-6CD79EC4DD32}|CapaLogica\\CapaLogica.csproj|C:\\Users\\Fabio\\source\\repos\\GestionDeNegocios\\capalogica\\facturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A448BCC-09E1-40BD-903F-6CD79EC4DD32}|CapaLogica\\CapaLogica.csproj|solutionrelative:capalogica\\facturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9BE417-F7DD-40AD-BCCF-478086EDA91D}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Fabio\\source\\repos\\GestionDeNegocios\\capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF9BE417-F7DD-40AD-BCCF-478086EDA91D}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A448BCC-09E1-40BD-903F-6CD79EC4DD32}|CapaLogica\\CapaLogica.csproj|C:\\Users\\Fabio\\source\\repos\\GestionDeNegocios\\capalogica\\proyectoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A448BCC-09E1-40BD-903F-6CD79EC4DD32}|CapaLogica\\CapaLogica.csproj|solutionrelative:capalogica\\proyectoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A448BCC-09E1-40BD-903F-6CD79EC4DD32}|CapaLogica\\CapaLogica.csproj|C:\\Users\\Fabio\\source\\repos\\GestionDeNegocios\\capalogica\\validators\\rutvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A448BCC-09E1-40BD-903F-6CD79EC4DD32}|CapaLogica\\CapaLogica.csproj|solutionrelative:capalogica\\validators\\rutvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A448BCC-09E1-40BD-903F-6CD79EC4DD32}|CapaLogica\\CapaLogica.csproj|C:\\Users\\Fabio\\source\\repos\\GestionDeNegocios\\capalogica\\validators\\proyectovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A448BCC-09E1-40BD-903F-6CD79EC4DD32}|CapaLogica\\CapaLogica.csproj|solutionrelative:capalogica\\validators\\proyectovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DB5749-215E-4795-B6F1-0C4CF8B63EFA}|CapaDominio\\CapaDominio.csproj|C:\\Users\\Fabio\\source\\repos\\GestionDeNegocios\\capadominio\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DB5749-215E-4795-B6F1-0C4CF8B63EFA}|CapaDominio\\CapaDominio.csproj|solutionrelative:capadominio\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DB5749-215E-4795-B6F1-0C4CF8B63EFA}|CapaDominio\\CapaDominio.csproj|C:\\Users\\Fabio\\source\\repos\\GestionDeNegocios\\capadominio\\facturaemitida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DB5749-215E-4795-B6F1-0C4CF8B63EFA}|CapaDominio\\CapaDominio.csproj|solutionrelative:capadominio\\facturaemitida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DB5749-215E-4795-B6F1-0C4CF8B63EFA}|CapaDominio\\CapaDominio.csproj|C:\\Users\\Fabio\\source\\repos\\GestionDeNegocios\\capadominio\\dtos\\proyectodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DB5749-215E-4795-B6F1-0C4CF8B63EFA}|CapaDominio\\CapaDominio.csproj|solutionrelative:capadominio\\dtos\\proyectodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9BE417-F7DD-40AD-BCCF-478086EDA91D}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Fabio\\source\\repos\\GestionDeNegocios\\capadatos\\facturaemitidarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF9BE417-F7DD-40AD-BCCF-478086EDA91D}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\facturaemitidarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\Fabio\\source\\repos\\GestionDeNegocios\\CapaLogica\\ClienteService.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\Fabio\\source\\repos\\GestionDeNegocios\\CapaLogica\\ClienteService.cs",
+              "RelativeToolTip": "CapaLogica\\ClienteService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAFcAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T22:32:54.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FacturaService.cs",
+              "DocumentMoniker": "C:\\Users\\Fabio\\source\\repos\\GestionDeNegocios\\CapaLogica\\FacturaService.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\FacturaService.cs",
+              "ToolTip": "C:\\Users\\Fabio\\source\\repos\\GestionDeNegocios\\CapaLogica\\FacturaService.cs",
+              "RelativeToolTip": "CapaLogica\\FacturaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T22:43:36.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EstadoProyecto.cs",
+              "DocumentMoniker": "C:\\Users\\Fabio\\source\\repos\\GestionDeNegocios\\CapaDominio\\Enums\\EstadoProyecto.cs",
+              "RelativeDocumentMoniker": "CapaDominio\\Enums\\EstadoProyecto.cs",
+              "ToolTip": "C:\\Users\\Fabio\\source\\repos\\GestionDeNegocios\\CapaDominio\\Enums\\EstadoProyecto.cs",
+              "RelativeToolTip": "CapaDominio\\Enums\\EstadoProyecto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T21:40:11.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TipoProyecto.cs",
+              "DocumentMoniker": "C:\\Users\\Fabio\\source\\repos\\GestionDeNegocios\\CapaDominio\\Enums\\TipoProyecto.cs",
+              "RelativeDocumentMoniker": "CapaDominio\\Enums\\TipoProyecto.cs",
+              "ToolTip": "C:\\Users\\Fabio\\source\\repos\\GestionDeNegocios\\CapaDominio\\Enums\\TipoProyecto.cs",
+              "RelativeToolTip": "CapaDominio\\Enums\\TipoProyecto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T21:39:12.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProyectoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Fabio\\source\\repos\\GestionDeNegocios\\CapaDatos\\ProyectoRepository.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\ProyectoRepository.cs",
+              "ToolTip": "C:\\Users\\Fabio\\source\\repos\\GestionDeNegocios\\CapaDatos\\ProyectoRepository.cs",
+              "RelativeToolTip": "CapaDatos\\ProyectoRepository.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAIQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T02:19:19.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fabio\\source\\repos\\GestionDeNegocios\\ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Fabio\\source\\repos\\GestionDeNegocios\\ConsoleApp\\Program.cs",
+              "RelativeToolTip": "ConsoleApp\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAEQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T22:49:56.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FacturaValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Fabio\\source\\repos\\GestionDeNegocios\\CapaLogica\\Validators\\FacturaValidator.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\Validators\\FacturaValidator.cs",
+              "ToolTip": "C:\\Users\\Fabio\\source\\repos\\GestionDeNegocios\\CapaLogica\\Validators\\FacturaValidator.cs",
+              "RelativeToolTip": "CapaLogica\\Validators\\FacturaValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T21:43:10.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RutValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Fabio\\source\\repos\\GestionDeNegocios\\CapaLogica\\Validators\\RutValidator.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\Validators\\RutValidator.cs",
+              "ToolTip": "C:\\Users\\Fabio\\source\\repos\\GestionDeNegocios\\CapaLogica\\Validators\\RutValidator.cs",
+              "RelativeToolTip": "CapaLogica\\Validators\\RutValidator.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAADwvy8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T21:45:38.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProyectoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Fabio\\source\\repos\\GestionDeNegocios\\CapaLogica\\Validators\\ProyectoValidator.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\Validators\\ProyectoValidator.cs",
+              "ToolTip": "C:\\Users\\Fabio\\source\\repos\\GestionDeNegocios\\CapaLogica\\Validators\\ProyectoValidator.cs",
+              "RelativeToolTip": "CapaLogica\\Validators\\ProyectoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T21:44:38.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Fabio\\source\\repos\\GestionDeNegocios\\CapaDatos\\Conexion.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Fabio\\source\\repos\\GestionDeNegocios\\CapaDatos\\Conexion.cs",
+              "RelativeToolTip": "CapaDatos\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T23:18:30.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProyectoService.cs",
+              "DocumentMoniker": "C:\\Users\\Fabio\\source\\repos\\GestionDeNegocios\\CapaLogica\\ProyectoService.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\ProyectoService.cs",
+              "ToolTip": "C:\\Users\\Fabio\\source\\repos\\GestionDeNegocios\\CapaLogica\\ProyectoService.cs",
+              "RelativeToolTip": "CapaLogica\\ProyectoService.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAADwv0AAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T22:45:41.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Proyecto.cs",
+              "DocumentMoniker": "C:\\Users\\Fabio\\source\\repos\\GestionDeNegocios\\CapaDominio\\Proyecto.cs",
+              "RelativeDocumentMoniker": "CapaDominio\\Proyecto.cs",
+              "ToolTip": "C:\\Users\\Fabio\\source\\repos\\GestionDeNegocios\\CapaDominio\\Proyecto.cs",
+              "RelativeToolTip": "CapaDominio\\Proyecto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T22:04:19.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FacturaEmitida.cs",
+              "DocumentMoniker": "C:\\Users\\Fabio\\source\\repos\\GestionDeNegocios\\CapaDominio\\FacturaEmitida.cs",
+              "RelativeDocumentMoniker": "CapaDominio\\FacturaEmitida.cs",
+              "ToolTip": "C:\\Users\\Fabio\\source\\repos\\GestionDeNegocios\\CapaDominio\\FacturaEmitida.cs",
+              "RelativeToolTip": "CapaDominio\\FacturaEmitida.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T22:15:50.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProyectoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Fabio\\source\\repos\\GestionDeNegocios\\CapaDominio\\DTOs\\ProyectoDTO.cs",
+              "RelativeDocumentMoniker": "CapaDominio\\DTOs\\ProyectoDTO.cs",
+              "ToolTip": "C:\\Users\\Fabio\\source\\repos\\GestionDeNegocios\\CapaDominio\\DTOs\\ProyectoDTO.cs",
+              "RelativeToolTip": "CapaDominio\\DTOs\\ProyectoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T21:56:14.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FacturaEmitidaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Fabio\\source\\repos\\GestionDeNegocios\\CapaDatos\\FacturaEmitidaRepository.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\FacturaEmitidaRepository.cs",
+              "ToolTip": "C:\\Users\\Fabio\\source\\repos\\GestionDeNegocios\\CapaDatos\\FacturaEmitidaRepository.cs",
+              "RelativeToolTip": "CapaDatos\\FacturaEmitidaRepository.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAFEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T22:22:16.609Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

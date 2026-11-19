@@ -1,0 +1,11 @@
+C:\Users\Fabio\source\repos\GestionDeNegocios\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\Fabio\source\repos\GestionDeNegocios\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\Fabio\source\repos\GestionDeNegocios\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\Fabio\source\repos\GestionDeNegocios\CapaLogica\bin\Debug\CapaDominio.dll
+C:\Users\Fabio\source\repos\GestionDeNegocios\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\Fabio\source\repos\GestionDeNegocios\CapaLogica\bin\Debug\CapaDominio.pdb
+C:\Users\Fabio\source\repos\GestionDeNegocios\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\Fabio\source\repos\GestionDeNegocios\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\source\repos\GestionDeNegocios\CapaLogica\obj\Debug\CapaLogica.csproj.Up2Date
+C:\Users\Fabio\source\repos\GestionDeNegocios\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Fabio\source\repos\GestionDeNegocios\CapaLogica\obj\Debug\CapaLogica.pdb

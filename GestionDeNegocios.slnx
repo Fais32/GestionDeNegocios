@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CapaDatos/CapaDatos.csproj" Id="ff9be417-f7dd-40ad-bccf-478086eda91d" />
+  <Project Path="CapaDominio/CapaDominio.csproj" Id="26db5749-215e-4795-b6f1-0c4cf8b63efa" />
+  <Project Path="CapaLogica/CapaLogica.csproj" Id="9a448bcc-09e1-40bd-903f-6cd79ec4dd32" />
+  <Project Path="ConsoleApp/ConsoleApp.csproj" Id="7f91db21-0cb9-48d0-96c2-f77845632cfa" />
+</Solution>

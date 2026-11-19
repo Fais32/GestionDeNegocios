@@ -1,0 +1,14 @@
+C:\Users\Fabio\source\repos\GestionDeNegocios\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\Fabio\source\repos\GestionDeNegocios\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\Fabio\source\repos\GestionDeNegocios\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\Fabio\source\repos\GestionDeNegocios\ConsoleApp\bin\Debug\CapaDominio.dll
+C:\Users\Fabio\source\repos\GestionDeNegocios\ConsoleApp\bin\Debug\CapaLogica.dll
+C:\Users\Fabio\source\repos\GestionDeNegocios\ConsoleApp\bin\Debug\CapaDominio.pdb
+C:\Users\Fabio\source\repos\GestionDeNegocios\ConsoleApp\bin\Debug\CapaLogica.pdb
+C:\Users\Fabio\source\repos\GestionDeNegocios\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Fabio\source\repos\GestionDeNegocios\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\source\repos\GestionDeNegocios\ConsoleApp\obj\Debug\ConsoleApp.csproj.Up2Date
+C:\Users\Fabio\source\repos\GestionDeNegocios\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\Fabio\source\repos\GestionDeNegocios\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Users\Fabio\source\repos\GestionDeNegocios\ConsoleApp\bin\Debug\CapaDatos.dll
+C:\Users\Fabio\source\repos\GestionDeNegocios\ConsoleApp\bin\Debug\CapaDatos.pdb
